@@ -11,6 +11,9 @@ powered by [Rich](https://github.com/Textualize/rich). It goes beyond text:
 it draws **images** inline (with Unicode half-blocks) and turns **Mermaid
 flowcharts** into ASCII art — all locally, nothing uploaded.
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/8c7cf926-6296-406d-92e5-a5974ece512e" />
+
+
 ```bash
 markterm README.md
 cat notes.md | markterm
