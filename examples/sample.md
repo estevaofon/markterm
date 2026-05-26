@@ -76,7 +76,7 @@ flowchart LR
 Local files and remote URLs are drawn inline with half-block characters
 (in a truecolor terminal):
 
-![A purple owl](assets/owl.png)
+![A purple owl](owl.png)
 
 ## Horizontal rule
 

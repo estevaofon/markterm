@@ -16,7 +16,7 @@ markterm README.md
 cat notes.md | markterm
 ```
 
-<!-- Tip: add a screenshot or GIF of markterm rendering a colorful document here, e.g. assets/demo.png -->
+<!-- Tip: add a screenshot or GIF of markterm rendering a colorful document here, e.g. docs/demo.png -->
 
 Mermaid flowcharts become readable ASCII you can paste anywhere:
 
@@ -103,8 +103,8 @@ markterm architecture.md -w 120
 Try it on the included demos:
 
 ```bash
-markterm sample.md   # local image (assets/owl.png) + a Mermaid flowchart
-markterm noxy.md     # remote image via an <img> URL + a complex diagram
+markterm examples/sample.md   # local image + a Mermaid flowchart
+markterm examples/noxy.md     # remote image via an <img> URL + a complex diagram
 ```
 
 ## How it works
